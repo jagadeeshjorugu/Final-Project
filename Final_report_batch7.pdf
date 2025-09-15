@@ -325,3 +325,4 @@ train: C:\Users\DELL\OneDrive\Desktop\finalproject\datasetfinal\images
 val: C:\Users\DELL\OneDrive\Desktop\finalproject\datasetfinal\images
 nc: 1 # Change based on number of classes
 names: ["car"] # Replace with actual class names
+
